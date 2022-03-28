@@ -17,11 +17,10 @@ public class secondHW {
 
    //2
     public static void positiveOrNegative(int x) {
-        if(x >= 0) {
+        if(x >= 0)
             System.out.println("Положительное");
-        } else {
+        else
             System.out.println("Отрицательное");
-        }
     }
 
    //3
@@ -31,9 +30,8 @@ public class secondHW {
 
     //4
     public static void printString(int n, String message){
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++)
            System.out.println(message);
-        }
     }
 
     //5*
