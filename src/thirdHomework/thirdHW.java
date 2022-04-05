@@ -122,7 +122,7 @@ public class thirdHW<b> {
 //            b[(i + n) % b.length] = b[i];
 //        }
 //        System.out.println();
-//        return b;
+//        return ;
 //    }
 
 
